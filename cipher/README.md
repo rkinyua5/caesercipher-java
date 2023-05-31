@@ -18,6 +18,7 @@ No known bugs.
 ## Technologies Used
 * Java
 * Gradle
+* Intellij 
 ## Support and contact details
 rkinyua5@gmail.com
 ### License
